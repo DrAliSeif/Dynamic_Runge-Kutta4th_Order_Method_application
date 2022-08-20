@@ -10,7 +10,7 @@ Connected/Separate  Dynamic/Constant						                                  ***/
 /*** Date: 8/19/2022                                                                          ***/
 /*** Code implemented in Microsoft Visual Studio Enterprise 2019 C++ compiler                 ***/
 /*** MSI: PX60 6QD/ DDR4                                                                      ***/
-/*** Run under a Intel® Core™ i7-6700HQ CPU @ 2.60GHz × 64 based processor with 16 GB RAM     ***/
+/*** Run under a IntelÂ® Coreâ„¢ i7-6700HQ CPU @ 2.60GHz Ã— 64 based processor with 16 GB RAM     ***/
 /*** in the computational server manual parallel                                              ***/
 /************************************************************************************************/
 /*#include"RK4.h"                                                            //import library Kuramoto
