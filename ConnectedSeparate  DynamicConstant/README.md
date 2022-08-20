@@ -1,4 +1,4 @@
-#Connected/Separate  Dynamic/Constant
+# Connected/Separate  Dynamic/Constant
 ## Topic: Dynamic Runge-Kutta 4th Order Method application in the class for each step whitout time dependent
 ##        solved numerically using RungeKutta 4th order method with adaptive time step size  with pointer for calculate several number
 ### Explosive synchronization in interlayer phase-shifted Kuramoto oscillators on multiplex networks     --Sarika Jalan--
